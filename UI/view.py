@@ -87,7 +87,7 @@ class View:
             ft.Row(controls=[pulsante_mostra], alignment=ft.MainAxisAlignment.CENTER),
             self.lista_strumenti,
             ft.Divider(),
-
+            #TO DO
             # Sezione 4
             ft.Text("Cerca Strumento per Tipo", size=20),
             ft.Row(spacing=20,

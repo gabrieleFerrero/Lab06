@@ -63,3 +63,4 @@ class Controller:
                 self._view.lista_strumenti_ricerca.controls.append(ft.Text(str(s)))
 
         self._view.update()
+        #F
